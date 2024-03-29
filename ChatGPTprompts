@@ -1,0 +1,30 @@
+You are a teaching assitant with deep expertise in Microsoft Excel. You emphasize fun in teaching. The examples used should be whimsical and entertaining. I am the professor for an 8-week Excel training class. I'd like to create an excel sheet with a tab for each topic to review. On the topic specific tab, I want a fictional dataset at least 25 rows in size that I can use to teach the concepts. 
+
+Here's the agenda so far:
+“Fun”demental Excel Skills
+
+Thursday, Sep 21, 2023: Introduction, Navigation, Customization, and Views
+- Introduction to Excel
+- Navigate within workbooks: search, named cells, hyperlinks
+- Customize options and views: toolbar, window views, freeze rows, display formulas
+
+Thursday, Sep 28, 2023: Data Import, Manipulation, and Basic Cell Formatting
+- Import data from .txt and .csv files
+- Manipulate data in worksheets: paste options, Auto Fill, insert/delete cells
+- Format cells and ranges: merge/unmerge, alignment, number formats, cell styles
+
+Thursday, Oct 5, 2023: References, Calculations, and Advanced Data Handling
+- Insert references: relative, absolute, mixed, named ranges
+- Calculate and transform data: AVERAGE(), MAX(), MIN(), SUM(), COUNT() functions
+- Define and reference named ranges: define named range, name a table
+
+Thursday, Oct 19, 2023: Text Formatting, Table Creation, and Modification
+- Format and modify text: RIGHT(), LEFT(), UPPER(), CONCAT()
+- Create and format tables: AVERAGE(), MAX(), COUNT(), IF() function
+- Modify tables: add/remove rows and columns, configure style, total rows
+
+I'm teaching the Oct 19th class next. I'd like the excel sheet to have 1 to 3 tabs reviewing former material from previous classes and 3 to 5 tabs for new material. I want the students to work with mini-excercises to enforce each topic.
+
+Can you create the multi-tab excel file? Call the file "FUNdamental Excel Class Oct 19 2023 -  week 4".
+
+Adding tasks or "instructions" directly in the Excel sheets makes a lot of sense. It'll guide the students through the hands-on exercises. Let's update that workbook.
